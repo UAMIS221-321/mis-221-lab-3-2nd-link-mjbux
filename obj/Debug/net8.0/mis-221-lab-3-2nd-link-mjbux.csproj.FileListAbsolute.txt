@@ -1,0 +1,15 @@
+C:\Users\buxyd\OneDrive\Documents\Source\fall2024\MIS221\Labs\mis-221-lab-3-2nd-link-mjbux\bin\Debug\net8.0\mis-221-lab-3-2nd-link-mjbux.exe
+C:\Users\buxyd\OneDrive\Documents\Source\fall2024\MIS221\Labs\mis-221-lab-3-2nd-link-mjbux\bin\Debug\net8.0\mis-221-lab-3-2nd-link-mjbux.deps.json
+C:\Users\buxyd\OneDrive\Documents\Source\fall2024\MIS221\Labs\mis-221-lab-3-2nd-link-mjbux\bin\Debug\net8.0\mis-221-lab-3-2nd-link-mjbux.runtimeconfig.json
+C:\Users\buxyd\OneDrive\Documents\Source\fall2024\MIS221\Labs\mis-221-lab-3-2nd-link-mjbux\bin\Debug\net8.0\mis-221-lab-3-2nd-link-mjbux.dll
+C:\Users\buxyd\OneDrive\Documents\Source\fall2024\MIS221\Labs\mis-221-lab-3-2nd-link-mjbux\bin\Debug\net8.0\mis-221-lab-3-2nd-link-mjbux.pdb
+C:\Users\buxyd\OneDrive\Documents\Source\fall2024\MIS221\Labs\mis-221-lab-3-2nd-link-mjbux\obj\Debug\net8.0\mis-221-lab-3-2nd-link-mjbux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buxyd\OneDrive\Documents\Source\fall2024\MIS221\Labs\mis-221-lab-3-2nd-link-mjbux\obj\Debug\net8.0\mis-221-lab-3-2nd-link-mjbux.AssemblyInfoInputs.cache
+C:\Users\buxyd\OneDrive\Documents\Source\fall2024\MIS221\Labs\mis-221-lab-3-2nd-link-mjbux\obj\Debug\net8.0\mis-221-lab-3-2nd-link-mjbux.AssemblyInfo.cs
+C:\Users\buxyd\OneDrive\Documents\Source\fall2024\MIS221\Labs\mis-221-lab-3-2nd-link-mjbux\obj\Debug\net8.0\mis-221-lab-3-2nd-link-mjbux.csproj.CoreCompileInputs.cache
+C:\Users\buxyd\OneDrive\Documents\Source\fall2024\MIS221\Labs\mis-221-lab-3-2nd-link-mjbux\obj\Debug\net8.0\mis-221-lab-3-2nd-link-mjbux.sourcelink.json
+C:\Users\buxyd\OneDrive\Documents\Source\fall2024\MIS221\Labs\mis-221-lab-3-2nd-link-mjbux\obj\Debug\net8.0\mis-221-lab-3-2nd-link-mjbux.dll
+C:\Users\buxyd\OneDrive\Documents\Source\fall2024\MIS221\Labs\mis-221-lab-3-2nd-link-mjbux\obj\Debug\net8.0\refint\mis-221-lab-3-2nd-link-mjbux.dll
+C:\Users\buxyd\OneDrive\Documents\Source\fall2024\MIS221\Labs\mis-221-lab-3-2nd-link-mjbux\obj\Debug\net8.0\mis-221-lab-3-2nd-link-mjbux.pdb
+C:\Users\buxyd\OneDrive\Documents\Source\fall2024\MIS221\Labs\mis-221-lab-3-2nd-link-mjbux\obj\Debug\net8.0\mis-221-lab-3-2nd-link-mjbux.genruntimeconfig.cache
+C:\Users\buxyd\OneDrive\Documents\Source\fall2024\MIS221\Labs\mis-221-lab-3-2nd-link-mjbux\obj\Debug\net8.0\ref\mis-221-lab-3-2nd-link-mjbux.dll
